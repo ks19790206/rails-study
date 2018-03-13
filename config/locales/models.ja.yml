@@ -1,0 +1,12 @@
+ja:
+  activerecord:
+    attributes:
+      todo:
+        title: タイトル
+        body: 本文
+        status: 状態
+        priority: 優先度
+        categoly: カテゴリ
+      categoly: カテゴリ
+        name: 名前
+        description: 詳細

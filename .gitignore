@@ -1,0 +1,11 @@
+bin
+development
+vendor
+.keep
+sprockets
+test
+public
+tmp
+log
+assets
+helper
